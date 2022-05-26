@@ -11,5 +11,4 @@
     <a href="https://ru.wikipedia.org/wiki/Microsoft_Access" target="_blank"><img src="https://img.icons8.com/color/48/000000/ms-access.png"/> </a> 
     <a href="https://ru.wikipedia.org/wiki/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> </a> 
     <a href="https://ru.wikipedia.org/wiki/HTML"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> </a> 
-    <a href="https://ru.wikipedia.org/wiki/CSS"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> </a>
 </p>
